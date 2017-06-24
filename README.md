@@ -23,9 +23,9 @@ Provides the best current purchase price for Ether in Australia across a number 
 ```
 npm init
 npm install express --save
-npm install eslint --save
+npm install eslint --save-dev
 eslint --init
-npm install nodemon --save
+npm install nodemon --save-dev
 touch index.js
 nodemon index
 ```
