@@ -4,6 +4,7 @@
   "description": "Provides the best current purchase price for Ether in Australia across a number of exchanges.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
