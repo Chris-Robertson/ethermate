@@ -1,0 +1,19 @@
+{
+  "name": "ethermate",
+  "version": "0.0.1",
+  "description": "Provides the best current purchase price for Ether in Australia across a number of exchanges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Robertson/ethermate.git"
+  },
+  "author": "Chris Robertson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chris-Robertson/ethermate/issues"
+  },
+  "homepage": "https://github.com/Chris-Robertson/ethermate#readme"
+}
