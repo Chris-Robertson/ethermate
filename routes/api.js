@@ -8,7 +8,11 @@ router.get('/exchanges', function(req, res) {
 
 // Add a new exchange to the database
 router.post('/exchanges', function(req, res) {
-  res.send({type: 'POST'});
+  res.send({
+    type: 'POST',
+    name: req.body.name,
+    minBuy: req.body.minBuy,
+  });
 });
 
 // Update an exchange in the database
