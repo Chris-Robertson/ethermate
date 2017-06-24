@@ -25,4 +25,7 @@ npm init
 npm install express --save
 npm install eslint --save
 eslint --init
+npm install nodemon --save
+touch index.js
+nodemon index
 ```
