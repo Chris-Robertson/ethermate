@@ -19,13 +19,12 @@ Provides the best current purchase price for Ether in Australia across a number 
 }
 ```
 
-### Terminal Command History
+### Node Modules Used
 ```
-npm init
-npm install express --save
-npm install eslint --save-dev
-eslint --init
-npm install nodemon --save-dev
-touch index.js
-nodemon index
+express
+eslint
+body-parser
+mongoose
+node-fetch
+mocha
 ```
